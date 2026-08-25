@@ -6,8 +6,8 @@
 
 | Repo | Task | Core Result |
 |---|---|---|
-| 🔤 [**Machine-Translation**](https://github.com/rahhhmann/Machine-Translation) | Dialect → Standard Bangla **generative** translation | Gemma-3-4B-it + QLoRA: **BLEU 32.44 / chrF++ 58.56** (combined) |
-| 🏷️ [**Name-Entity-Recognition**](https://github.com/rahhhmann/Name-Entity-Recognition) | Dialect **discriminative** entity recognition | BanglaBERT + Focal Loss: **Macro F1 0.672** |
+|  [**Machine-Translation**](https://github.com/rahhhmann/Machine-Translation) | Dialect → Standard Bangla **generative** translation | Gemma-3-4B-it + QLoRA: **BLEU 32.44 / chrF++ 58.56** (combined) |
+|  [**Name-Entity-Recognition**](https://github.com/rahhhmann/Name-Entity-Recognition) | Dialect **discriminative** entity recognition | BanglaBERT + Focal Loss: **Macro F1 0.672** |
 
 Each sub-project is fully self-contained — its own data pipeline, `requirements.txt`, `.gitignore`, notebooks, results, figures, and a detailed README with methodology, results tables, and mermaid diagrams. This README is the map that ties them together.
 
