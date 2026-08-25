@@ -1,0 +1,6 @@
+[submodule "Machine-Translation"]
+	path = Machine-Translation
+	url = https://github.com/rahhhmann/Machine-Translation.git
+[submodule "Name-Entity-Recognition"]
+	path = Name-Entity-Recognition
+	url = https://github.com/rahhhmann/Name-Entity-Recognition.git
